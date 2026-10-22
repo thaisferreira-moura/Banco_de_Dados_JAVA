@@ -36,8 +36,7 @@ app/src/main/java/com/example/projetocrud/MainActivity.java: Controla a lógica 
 
 Clone este repositório para a sua máquina local:
 
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-
+git clone https://github.com/thaisferreira-moura/Banco_de_Dados_JAVA.git
 
 Abra o Android Studio.
 
